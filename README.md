@@ -18,6 +18,12 @@ Abra [http://localhost:3000] no navegador para visualizar a aplicação.
 
 A página recarrega automaticamente ao modificar o código.
 
+## Login
+
+Usuário: 123 (Ou qualquer coisa, sem validação do backend)
+
+Senha: 123 (Ou qualquer coisa, sem validação do backend)
+
 ## Funcionalidades principais
 
 - Sistema SPA com navegação sidebar fixa.
